@@ -1,4 +1,4 @@
-module Ryborg::String
+module Ryborg
     def scrub
       out = self.downcase
       out = out.strip
